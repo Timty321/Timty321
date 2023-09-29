@@ -32,3 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=timty321&show_icons=true&locale=en" alt="timty321" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=timty321&" alt="timty321" /></p>
+
+![Wakatime](https://wakatime.com/share/@706bf4ad-2789-4b6e-a46d-cb9bada2049b/5b232beb-39e0-4c7d-b4d9-791777657bba.svg)
+![Wakatime](https://wakatime.com/share/@706bf4ad-2789-4b6e-a46d-cb9bada2049b/0aa101be-f41c-4b67-8418-225f6dce0456.svg)
