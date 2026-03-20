@@ -6,16 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/timtygaming" target="blank"><img src="https://img.shields.io/twitter/follow/timtygaming?logo=twitter&style=for-the-badge" alt="timtygaming" /></a> </p>
 
-- 🔭 I’m currently working on [TimtyCloud](https://panel.timty.cloud/)
-
-- 🌱 I’m currently learning **PHP, Laravel**
-
-- 👨‍💻 All of my projects are available at [https://timtyy.com](https://timtyy.com)
-
-- 💬 Ask me about **Discord.JS**
-
-- 📫 How to reach me **admin@timty.cloud**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/timtygaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="timtygaming" height="30" width="40" /></a>
